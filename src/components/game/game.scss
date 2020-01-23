@@ -1,0 +1,19 @@
+.game{
+  height: 100%;
+
+  .content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 250px;
+
+    .answer{
+      width: 100%;
+    }
+  }
+
+  .stats{
+    max-width: 250px;
+  }
+}

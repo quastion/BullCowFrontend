@@ -1,0 +1,22 @@
+.custom-form{
+  width: 100% !important;
+  max-width: 100% !important;
+
+  Form{
+    .keyboard{
+      border: 1px solid #ced4da;
+      border-radius: .25rem;
+      padding: 20px 20px;
+      padding-bottom: 0px;
+      right: 0px;
+    }
+  }
+}
+
+.normal{
+  color: #6c757d !important;
+}
+
+.error{
+  color: #dc3545 !important;
+}
